@@ -1,0 +1,12 @@
+name = "pivnich"
+description = "A simple XOR cipher implementation in Ada."
+version = "0.1.0-dev"
+
+authors = ["Oleh M"]
+maintainers = ["Oleh M <mruchko13o@gmail.com>"]
+maintainers-logins = ["UwUbit"]
+licenses = "MIT"
+website = ""
+tags = ["cryptography"]
+
+executables = ["pivnich"]
