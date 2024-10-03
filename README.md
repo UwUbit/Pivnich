@@ -1,6 +1,6 @@
 # Pivnich
 
-I really loved working with Ada and previously Pascal, and in the future I will modify this project!.
+I really loved working with Ada and previously Pascal, and in the future I will modify this project!
 Pivnich implements a simple end-to-end encryption algorithm using the XOR cipher technique.
 Pivnich allows to input a plain text message, encrypt it, and then decrypt it back to the original message.
 
